@@ -1,0 +1,1 @@
+open('C:/Users/Marci/projects/Portfolio-Projects/python-hangman/countries-and-capitals.txt', "rt")
